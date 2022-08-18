@@ -1,0 +1,3 @@
+/home/michael/Projects/C++/cpp-server/cmake-build-debug/CMakeFiles/cpp_server.dir
+/home/michael/Projects/C++/cpp-server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/michael/Projects/C++/cpp-server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
